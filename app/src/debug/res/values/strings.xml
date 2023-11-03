@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Weekly Tasks</string>
-    <string name="version_tag">version</string>
+    <string name="version_tag"> debug version</string>
 </resources>
